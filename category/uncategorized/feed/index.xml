@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; madams31&#039;s Blog!</title>
+	<atom:link href="https://adamsmath11.github.io/2nd_website/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://adamsmath11.github.io/2nd_website</link>
+	<description>I flippin made this</description>
+	<lastBuildDate>Wed, 18 Aug 2021 22:15:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Initial Learnings</title>
+		<link>https://adamsmath11.github.io/2nd_website/2021/08/16/hello-world/</link>
+					<comments>https://adamsmath11.github.io/2nd_website/2021/08/16/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[madams31]]></dc:creator>
+		<pubDate>Mon, 16 Aug 2021 22:58:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http:/?p=1</guid>
+
+					<description><![CDATA[Hello all, this is the first WordPress post that I&#8217;ve ever created. It&#8217;s very obviously just a junkyard of me playing with different features with reckless abandon This section was written in a verse section: “Twas a sheep not a lamb that strayed away In the parable Jesus told, A grown-up sheep that strayed away&#8230; <a class="more-link" href="https://adamsmath11.github.io/2nd_website/2021/08/16/hello-world/">Continue reading <span class="screen-reader-text">Initial Learnings</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Hello all, this is the first WordPress post that I&#8217;ve ever created. It&#8217;s very obviously just a junkyard of me playing with different features with reckless abandon</p>
+
+
+
+<div class="wp-block-cover has-background-dim"><img loading="lazy" width="1200" height="1016" class="wp-block-cover__image-background wp-image-24" alt="" src="https://adamsmath11.github.io/2nd_website/wp-content/uploads/2021/08/326745.jpg" data-object-fit="cover" srcset="https://adamsmath11.github.io/2nd_website/wp-content/uploads/2021/08/326745.jpg 1200w, https://adamsmath11.github.io/2nd_website/wp-content/uploads/2021/08/326745-300x254.jpg 300w, https://adamsmath11.github.io/2nd_website/wp-content/uploads/2021/08/326745-1024x867.jpg 1024w, https://adamsmath11.github.io/2nd_website/wp-content/uploads/2021/08/326745-768x650.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /><div class="wp-block-cover__inner-container">
+<p class="has-text-align-center has-large-font-size">This is called a Cover, it&#8217;s sorta cool</p>
+</div></div>
+
+
+
+<pre class="wp-block-verse">This section was written in a verse section:
+
+“Twas a sheep not a lamb that strayed away
+In the parable Jesus told,
+A grown-up sheep that strayed away
+From the ninety and nine in the fold.
+
+And why for the sheep should we seek
+And earnestly hope and pray?
+Because there is danger when sheep go wrong;
+They lead the lambs astray.
+
+Lambs will follow the sheep, you know,
+Wherever the sheep may stray.
+When sheep go wrong, it won’t take long
+Til the lambs are as wrong as they.
+
+And so with the sheep we earnestly plead
+For the sake of the lambs today,
+For when sheep are lost, what a terrible cost
+The lambs will have to pay!”</pre>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis:100%">
+<figure class="wp-block-image size-large is-style-twentytwentyone-image-frame"><img loading="lazy" width="1024" height="768" src="https://adamsmath11.github.io/2nd_website/wp-content/uploads/2021/08/IMG_7139-1024x768.jpg" alt="" class="wp-image-10" srcset="https://adamsmath11.github.io/2nd_website/wp-content/uploads/2021/08/IMG_7139-1024x768.jpg 1024w, https://adamsmath11.github.io/2nd_website/wp-content/uploads/2021/08/IMG_7139-300x225.jpg 300w, https://adamsmath11.github.io/2nd_website/wp-content/uploads/2021/08/IMG_7139-768x576.jpg 768w, https://adamsmath11.github.io/2nd_website/wp-content/uploads/2021/08/IMG_7139.jpg 1249w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Caption</figcaption></figure>
+</div>
+</div>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://adamsmath11.github.io/2nd_website/2021/08/16/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
